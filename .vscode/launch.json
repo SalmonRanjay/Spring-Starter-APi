@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SqlRestApplication",
+            "request": "launch",
+            "mainClass": "com.ranjay.sqlapi.sqlrest.SqlRestApplication",
+            "projectName": "sql-rest"
+        }
+    ]
+}
