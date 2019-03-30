@@ -12,4 +12,5 @@ public class EasyNotesApplication {
 		SpringApplication.run(EasyNotesApplication.class, args);
 	}
 
+	
 }
